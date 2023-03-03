@@ -13,4 +13,5 @@ Why the project is useful: It helps to identify the best stategy to open a coffe
 
 Project is made with Jupyter notebook (also can be opened with Google Colab)
 
+**Project visualization: https://nbviewer.org/github/dinomash/horeca_analysis_msc/blob/main/moscow_horeca_project.ipynb**
 
